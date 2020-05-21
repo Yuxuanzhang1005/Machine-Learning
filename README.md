@@ -7,14 +7,15 @@ The goal of Machine Learning is to build computer systems that can adapt and lea
 logistic regression, support vector machines, deep nets, structured methods, learning theory, kMeans, Gaussian mixtures, expectation 
 maximization, VAEs, GANs, Markov decision processes, Q-learning and Reinforce.
 
-**Grading**
-
+**Grading:**
 4 credit: Homework 16.6%, Scribe 16.6%, Midterm 33%, Final 33%
 
-**Files**
+**Language:**Python, Pytorch
+
+**Content**
 * Lectures
 * Homework 1-10 (hw6 is dropped)
-* Practice Problems for mid and final
+* Practice Problems for mid&final and solutions
 * Scribe: Lecture 30
 
-**Languag:e**Python, Pytorch
+
